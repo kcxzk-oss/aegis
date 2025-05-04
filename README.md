@@ -23,8 +23,8 @@ After reviewing the report, if the claim turned out to be valid, we add the user
 
 We do not take any responsibility for any damage caused during the use of this bot.
 If you decide to Direct Message the listed users and do something to them, we will not take any resposibility for this.
-By using this bot you agree to the privacy notice
-We leave the right to change the privacy notice anytime without informing anyone
+By using this bot you agree to the privacy notice.
+We leave the right to change the privacy notice anytime without informing anyone.
 
 ## FAQ
 
